@@ -20,7 +20,8 @@ react-native start
 git clone git@github.com:liuhong1happy/react-native-2048.git
 cd react-native-2048
 npm install
-# open xcode and run
+react-native run-ios
+
 ```
 
 ## Release
